@@ -101,5 +101,5 @@ function deletevalue(event) {
 
   setTimeout(() => {
     location.href = "index.html"
-  }, 1000);
+  }, 5000);
 }
